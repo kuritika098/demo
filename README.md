@@ -1,3 +1,3 @@
 # demo
 This is my second .<br>
-Author - Ritika gaur
+Author - Ritika gaur Entrepreneur
